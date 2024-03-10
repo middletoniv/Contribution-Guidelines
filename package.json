@@ -1,0 +1,26 @@
+{
+"name": "contribution-guidelineszhehisqingc1311",
+"version": "1.0.0",
+"description": "We welcome contributions to the project. You can participate by submitting pull requests or reporting issues.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/middletoniv/Contribution-Guidelines.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "middletoniv",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
